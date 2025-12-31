@@ -1,3 +1,4 @@
+url: https://districtidentityscrape-8gemfkaczfznsnj6dqj8e8.streamlit.app/
 # District Identity Scraper
 
 A Python-based web scraping tool designed to extract administrative details, geographical data, and identity markers for various districts. This tool is built to automate the collection of district-level metadata for data analysis and mapping projects.
